@@ -2,6 +2,8 @@
 
 This is the code for a simple BMI (Body Mass Index) calculator using HTML and jQuery.
 
+Demo: https://ixaxtav.github.io/bmi-calculator/
+
 ## Features
 
 - Allows users to calculate their BMI using metric or imperial units
